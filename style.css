@@ -1,0 +1,24 @@
+.Container{
+    width: 690px;
+    height: 545px;
+    background-color: rgb(245, 220, 77);
+    font-size: 70px;
+    border-radius: 20px;
+    border: 1px black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    margin: auto;
+}
+
+.H1{
+    width: 238px;
+    height: 350px;
+    background-color: rgb(255, 144, 163);
+    border-radius: 20px;
+    border: 2px black;
+    text-align: center;
+    margin: 5px;
+    margin-top: 10px;
+}
