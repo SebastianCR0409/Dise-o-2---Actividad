@@ -21,6 +21,9 @@
     text-align: center;
     margin: 5px;
     margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .H2 {
@@ -32,6 +35,9 @@
     text-align: center;
     margin: 5px;
     margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .FCentral {
@@ -48,6 +54,9 @@
     border: 2px solid black;
     text-align: center;
     margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .H6 {
@@ -58,5 +67,7 @@
     border: 2px solid black;
     text-align: center;
     margin: 5px;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
