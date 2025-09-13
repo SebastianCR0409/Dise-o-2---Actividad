@@ -4,7 +4,7 @@
     background-color: rgb(245, 220, 77);
     font-size: 70px;
     border-radius: 20px;
-    border: 1px black;
+    border: 1px solid black;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -17,8 +17,46 @@
     height: 350px;
     background-color: rgb(255, 144, 163);
     border-radius: 20px;
-    border: 2px black;
+    border: 2px solid black;
     text-align: center;
     margin: 5px;
     margin-top: 10px;
+}
+
+.H2 {
+    width: 420px;
+    height: 150px;
+    background-color: rgb(255, 144, 163);
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+.FCentral {
+    display: flex;
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.H3,.H4,.H5 {
+    width: 130px;
+    height: 188px;
+    background-color: rgb(255, 144, 163);
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+}
+
+.H6 {
+    width: 670px;
+    height: 160px;
+    background-color: rgb(255, 144, 163);
+    border-radius: 20px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 5px;
+
 }
